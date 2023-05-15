@@ -18,7 +18,7 @@ pip install pandas numpy
 
 ## Usage
 
-1. Download the `iris.csv` file and the `iris_type_prediction.py` script and save them to the same directory on your machine.
+1. Download the `iris.csv` file and the `main.py` script and save them to the same directory on your machine.
 
 2. Open a terminal or command prompt and navigate to the directory where you saved the files.
 
