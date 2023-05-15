@@ -25,7 +25,7 @@ pip install pandas numpy
 3. Run the script by typing the following command:
 
    ```
-   python iris_type_prediction.py
+   python main.py
    ```
 
 4. Follow the prompts to enter values for the sepal length, sepal width, petal length, and petal width of an iris flower.
